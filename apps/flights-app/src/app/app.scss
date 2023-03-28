@@ -1,0 +1,10 @@
+/* Your styles goes here. */
+.app-con {
+  display: flex;
+
+  .flights-list {
+    max-height: 100%;
+    overflow: auto;
+    width: 290px;
+  }
+}
